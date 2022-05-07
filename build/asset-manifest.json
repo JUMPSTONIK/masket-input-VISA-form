@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/https//:jumpstonik.github.io/masket-input-VISA-form/static/css/main.78cd433b.css",
+    "main.js": "/https//:jumpstonik.github.io/masket-input-VISA-form/static/js/main.8d57b918.js",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/https//:jumpstonik.github.io/masket-input-VISA-form/static/media/Montserrat-VariableFont_wght.3068cdb43142f5625baf.ttf",
+    "index.html": "/https//:jumpstonik.github.io/masket-input-VISA-form/index.html",
+    "main.78cd433b.css.map": "/https//:jumpstonik.github.io/masket-input-VISA-form/static/css/main.78cd433b.css.map",
+    "main.8d57b918.js.map": "/https//:jumpstonik.github.io/masket-input-VISA-form/static/js/main.8d57b918.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78cd433b.css",
+    "static/js/main.8d57b918.js"
+  ]
+}
